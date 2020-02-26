@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+.vscode
+.history
+npm-error.log
+yarn-error.log
+dist/
+typescript
+.package-lock.json
